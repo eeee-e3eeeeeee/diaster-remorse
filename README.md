@@ -12,3 +12,8 @@ A desk sized version of lohen from genshin impacts spear. Its about 16 inches lo
 * Total Parts: 12 
 
 # Assembly
+  1. print everything
+  2. most things dont have pegs so super glue it all together its pretty intuitive.
+  3. make the other part of it out of eva foam (this is also pretty intuitive).
+  4. sand it, paint it, more super glue.
+  5. prop it up onto the display stand.
