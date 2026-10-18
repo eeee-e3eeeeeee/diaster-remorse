@@ -1,6 +1,6 @@
 # disaster-and-remorse
 
-A desk sized version of lohen from genshin impacts spear. Its about 16 inches long and it doesn't include the part with the white small shield so its not very lore accurate and the proportions I changed to make it more likeable. 
+A desk sized version of Lohen from Genshin impacts spear. Its about 16 inches long and it doesn't include the part with the white small shield so its not very lore accurate and the proportions I changed to make it more likeable. 
 
 
 
@@ -12,8 +12,8 @@ A desk sized version of lohen from genshin impacts spear. Its about 16 inches lo
 * Total Parts: 12 
 
 # Assembly
-  1. print everything
-  2. most things dont have pegs so super glue it all together its pretty intuitive.
-  3. make the other part of it out of eva foam (this is also pretty intuitive).
-  4. sand it, paint it, more super glue.
-  5. prop it up onto the display stand.
+  1. Print everything
+  2. Most things don't have pegs so super glue it all together, its pretty intuitive.
+  3. Make the other part of it out of eva foam (this is also pretty intuitive).
+  4. Sand it, paint it, more super glue.
+  5. Prop it up onto the display stand.
