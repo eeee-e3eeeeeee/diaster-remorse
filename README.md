@@ -6,6 +6,8 @@ A desk sized version of Lohen from Genshin impacts spear. Its about 16 inches lo
 
 <img width="127" height="575" alt="Image" src="https://github.com/user-attachments/assets/c2887747-61c5-4365-8cdb-3bf4c157da38" />
 
+
+<img width="367" height="527" alt="Image" src="https://github.com/user-attachments/assets/7c7882a4-a904-49bb-b123-fe49d0470a7b" />
 # Specifics
 * Dimensions: 15.950in tall, 1.609307in at the widest point
 * Materials: PLA
